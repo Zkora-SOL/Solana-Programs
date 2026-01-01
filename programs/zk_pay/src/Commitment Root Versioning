@@ -1,0 +1,1 @@
+ctx.accounts.commitment.index += 1;
