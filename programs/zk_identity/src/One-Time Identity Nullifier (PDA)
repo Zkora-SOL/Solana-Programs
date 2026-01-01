@@ -1,0 +1,1 @@
+seeds = [b"nullifier", user.key().as_ref()]
