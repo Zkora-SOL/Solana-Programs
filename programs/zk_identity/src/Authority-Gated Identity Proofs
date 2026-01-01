@@ -1,0 +1,4 @@
+require!(
+    ctx.accounts.authority_config.authority == ctx.accounts.authority.key(),
+    ZKoraError::Unauthorized
+);
