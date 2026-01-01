@@ -1,0 +1,1 @@
+seeds = [b"nullifier", authority.key().as_ref()]
