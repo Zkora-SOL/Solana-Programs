@@ -1,0 +1,1 @@
+ix.program_id == ed25519_program::id()
